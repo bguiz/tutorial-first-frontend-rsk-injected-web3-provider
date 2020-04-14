@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bguiz/tutorial-first-frontend-rsk-injected-web3-provider/issues"
   },
-  "homepage": "https://github.com/bguiz/tutorial-first-frontend-rsk-injected-web3-provider#readme"
+  "homepage": "https://github.com/bguiz/tutorial-first-frontend-rsk-injected-web3-provider#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
 }
