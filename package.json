@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bguiz/tutorial-first-frontend-rsk-injected-web3-provider#readme",
   "dependencies": {
-    "express": "4.17.1"
+    "express": "4.17.1",
+    "web3": "1.2.6"
   }
 }
